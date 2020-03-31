@@ -1,4 +1,4 @@
-# Predicción de entrada de extranjeros en colombia por medio de series de tiempo
+# Predicción de entrada de extranjeros en Colombia por medio de series de tiempo
 
 **Integrantes:**
 
